@@ -1,1 +1,1 @@
-# bmagus
+# Betumagus
